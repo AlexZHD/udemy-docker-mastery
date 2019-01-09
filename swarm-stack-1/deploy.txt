@@ -1,0 +1,1 @@
+scp example-voting-app-stack.yml dnode1:~/srv/swarm-stack-1/
